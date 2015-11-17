@@ -1,6 +1,6 @@
 # Developer Guide
 
-You need to sign in to the [contributor license agreement](cla.md) before you contribute to Salesific CRM. Salesific CRM is 
+You need to sign the [contributor license agreement](cla.md) before you contribute to Salesific CRM. Salesific CRM is 
 licensed under GNU/GPLv3 license. Please refer to the file contributing.md on the root directory.
 
 # Internationalization
